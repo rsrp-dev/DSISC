@@ -218,7 +218,7 @@ Citizen.CreateThread(function()
 			local vehicle  = GetPlayersLastVehicle()
 			local plate    = GetVehicleNumberPlateText(vehicle)
 			local fuel 	   = GetVehicleFuelLevel(vehicle)
-			local integer  = math.random(6, 10)
+			local integer  = math.random(Config.FuelPerTickLow  , Config.FuelPerTickHigh )
 			local fuelthis = integer / 10
 			local newfuel  = fuel + fuelthis
 
