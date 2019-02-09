@@ -31,7 +31,7 @@ cfg = {
 	cascadingFailureThreshold = 360.0,			-- Below this value, health cascading failure will set in
 	engineSafeGuard = 100.0,					-- Final failure value. Set it too high, and the vehicle won't smoke when disabled. Set too low, and the car will catch fire from a single bullet to the engine. At health 100 a typical car can take 3-4 bullets to the engine before catching fire.
 
-	torqueMultiplierEnabled = true,				-- Decrease engine torque as engine gets more and more damaged
+	torqueMultiplierEnabled = false,			-- Decrease engine torque as engine gets more and more damaged
 
 	limpMode = false,							-- If true, the engine never fails completely, so you will always be able to get to a mechanic unless you flip your vehicle and preventVehicleFlip is set to true
 	limpModeMultiplier = 0.15,					-- The torque multiplier to use when vehicle is limping. Sane values are 0.05 to 0.25
