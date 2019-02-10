@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<CVehiclePopulationTuning>
-  <fMultiplayerRandomVehicleDensityMultiplier value="1.0"/>
-  <fMultiplayerParkedVehicleDensityMultiplier value="1.0"/>
-</CVehiclePopulationTuning>
-
