@@ -1,0 +1,15 @@
+cache/
+citizen/
+crashes/
+docs/
+*.dll
+*.json
+*.exe
+*.cmd
+*.crt
+*.key
+*.bat
+*.yml
+*.dat
+server-data/server.cfg
+server.cfg
