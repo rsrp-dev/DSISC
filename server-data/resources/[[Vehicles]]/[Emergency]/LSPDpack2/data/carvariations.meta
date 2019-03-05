@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    
+   
+	<Item> 
+<modelName>polcap</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+
+<Item> 
+<modelName>polstau</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+
+<Item> 
+<modelName>polschar</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+
+<Item> 
+<modelName>poltau</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+
+<Item> 
+<modelName>polsexp</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+
+<Item> 
+<modelName>polmaro</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+	
+	<Item> 
+<modelName>polchar</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+	
+	<Item> 
+<modelName>polchar14</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+	
+	<Item> 
+<modelName>polschar</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+    
+	<Item> 
+<modelName>polhum</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+
+<Item> 
+<modelName>poltah</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+
+<Item> 
+<modelName>poltah13</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+	
+<Item> 
+<modelName>poltah15</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+
+<Item> 
+<modelName>polstah</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+
+<Item> 
+<modelName>polsilv</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+
+<Item> 
+<modelName>polvic</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item> 
+	
+  </variationData>
+</CVehicleModelInfoVariation>

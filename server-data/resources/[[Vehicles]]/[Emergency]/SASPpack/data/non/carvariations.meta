@@ -1,0 +1,1372 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+
+<Item> 
+<modelName>SASP</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="1" />
+</Item>  
+
+<Item> 
+<modelName>SASP2</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="658" />
+</Item>
+
+<Item> 
+<modelName>SASP3</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="657" />
+</Item>
+
+<Item> 
+<modelName>SASP4</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="697" />
+</Item>
+
+<Item> 
+<modelName>SASP5</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="657" />
+</Item>
+
+<Item> 
+<modelName>SASP6</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="20" />
+</Item>
+
+<Item> 
+<modelName>SASP7</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="660" />
+</Item>
+
+<Item> 
+<modelName>SASP8</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="658" />
+</Item>
+
+<Item> 
+<modelName>SASP9</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits>
+<windowsWithExposedEdges />
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="666" /> 
+<sirenSettings value="695" />
+</Item>
+
+<Item> 
+<modelName>SASP10</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits>
+<windowsWithExposedEdges />
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="15" /> 
+<sirenSettings value="696" />
+</Item>
+
+<Item> 
+<modelName>SASP11</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits>
+<windowsWithExposedEdges />
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="20" />
+</Item>
+
+<Item> 
+<modelName>SASP12</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits>
+<windowsWithExposedEdges />
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="20" />
+</Item>
+
+<Item> 
+<modelName>SASP13</modelName> 
+<colors> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+<Item> 
+<indices content="char_array"> 
+134 
+134 
+156 
+156 
+</indices> 
+<liveries> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="true" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+<Item value="false" /> 
+</liveries> 
+</Item> 
+</colors> 
+<kits> 
+<Item>0_default_modkit</Item> 
+</kits> 
+<windowsWithExposedEdges /> 
+<plateProbabilities> 
+<Probabilities /> 
+</plateProbabilities> 
+<lightSettings value="1" /> 
+<sirenSettings value="665" />
+</Item>
+  </variationData>
+</CVehicleModelInfoVariation>

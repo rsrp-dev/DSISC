@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!------- Real | RAGE project by The Real_Gabe http://www.realrage.therealgabe.net | Do not claim you made this mod and don’t upload and/or alter it without my permission! -------->
+<rage__ptxgpuDropRenderSettings>
+  <textureRowsColsStartEnd x="1.000000" y="4.000000" z="0.000000" w="3.000000" />
+  <textureAnimRateScaleOverLifeStart2End2 x="0.000000" y="0.000000" z="0.000000" w="3.000000" />
+  <sizeMinMax x="0.032100" y="0.623000" z="0.056200" w="0.895000" />
+  <colour x="0.400000" y="0.400000" z="0.400000" w="0.200000" />
+  <fadeInOut x="0.050000" y="0.050000" />
+  <fadeNearFar x="0.100000" y="110.000000" />
+  <fadeGrdOffLoHi x="0.000000" y="-5.000000" z="1.000000" w="100.000000" />
+  <rotSpeedMinMax x="0.000000" y="0.000000" />
+  <directionalZOffsetMinMax x="1.240000" y="1.240000" z="1.240000" />
+  <dirVelAddCamSpeedMinMaxMult x="10.000000" y="60.000000" z="0.800000" />
+  <edgeSoftness value="0.989000" />
+  <particleColorPercentage value="0.255000" />
+  <backgroundDistortionVisibilityPercentage value="1.500000" />
+  <backgroundDistortionAlphaBooster value="3.700000" />
+  <backgroundDistortionAmount value="550.000000" />
+  <backgroundDistortionBlurLevel value="3" />
+  <localLightsMultiplier value="1.400000" />
+</rage__ptxgpuDropRenderSettings>
+<!------- Real | RAGE project by The Real_Gabe http://www.realrage.therealgabe.net | Do not claim you made this mod and don’t upload and/or alter it without my permission! -------->

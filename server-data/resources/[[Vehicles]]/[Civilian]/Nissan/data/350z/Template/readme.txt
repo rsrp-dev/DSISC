@@ -1,0 +1,1 @@
+Replace "Paint" Texture in elegy2.ytd/350z.ytd

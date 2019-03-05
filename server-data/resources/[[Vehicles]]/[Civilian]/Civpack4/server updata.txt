@@ -1,0 +1,30 @@
+__**Server Update Time!**__
+*Well Most of you know by now, I have been working on the new civilian car pack, and this one is the biggest one yet. So prepare yourself for 500mb Download on the loading screen. Other than that the following is the list of vehicles, and adjustments that have been added to the server for your enjoyment.*
+
+**2015 BMW F82**, *With varying models*
+     - `f82`              (*M4*)
+     - `f82st`          (*bone stock*)
+     - `f82duke`      (*Aggressive*)
+     - `f824slw`      (*Wide*)
+     - `f82lw`          (*Liberty Walk*)
+     - `f82hs`          (*Deep Dish, Wide*)
+**2015 Mercedes-AMG C63**
+     - `c63`
+**2019 Aston Martin Vantage**
+     - `specter`
+**2018 Cadillac CTS-V**
+     - `ctsv`
+**2018 Maserati GranTurismo**
+     - `masigt`
+**2017 Dodge Viper**
+     - `viper`
+**2018 Nissan GT-R Liberty Walk**
+     - `gtr`
+**2002 Mazda RX-7 FD Liberty Walk**
+     - 'rx7rb'
+**Dai Yoshihara Nissan 240sx S13** (*Yes it's LS swapped!*)
+     - `lss13`
+
+*This new pack also includes 7 new types of wheels, under the "sports" collection of wheels
+Oh and did I forget to mention increased fighter jet speeds? Whoops...*
+*As some of you may know I try to take time to make these vehicles match their real life appearances and sounds profiles, so if you guys see something I may have missed just send me a direct message and I will try to get it fixed* @everyone
